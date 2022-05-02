@@ -1,0 +1,17 @@
+{
+    "name": "AllIn1SpriteShader.Editor",
+    "references": [
+        "GUID:0ffabddd3151109429645b1cd89c0360"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

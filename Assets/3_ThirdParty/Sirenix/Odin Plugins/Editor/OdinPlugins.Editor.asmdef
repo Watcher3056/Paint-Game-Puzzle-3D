@@ -1,0 +1,22 @@
+{
+    "name": "OdinPlugins.Editor",
+    "references": [
+        "GUID:0ffabddd3151109429645b1cd89c0360",
+        "GUID:2c713990e559d02489695df7df849d1e",
+        "GUID:27eed75defa8e204db6422e78f6c4526",
+        "GUID:c088a3930f931c44fbef67483dc11d88",
+        "GUID:e0a70c9cd94b8f04094788aac799a553",
+        "GUID:9147d0b1e594e644d935caf85472e426"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

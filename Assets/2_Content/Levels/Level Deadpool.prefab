@@ -1,0 +1,172 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &711048565535578522
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5140858010429954131}
+  - component: {fileID: 3689912615027238202}
+  m_Layer: 0
+  m_Name: Level Deadpool
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5140858010429954131
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 711048565535578522}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 3102057277747086896}
+  - {fileID: 5877758280990962804}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3689912615027238202
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 711048565535578522}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17888bd85b32b7c44b0fa5d09b73f65d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  guid:
+    id: ec65bcbee45db2f4f8231642795b823a
+    sourceType: 1
+    prefabId: ec65bcbee45db2f4f8231642795b823a
+    randomId: 
+  dynamicHolder: {fileID: 3102057277747086896}
+  modelPrefab: {fileID: 3658221927924276055, guid: 8fcea4371182d8a468c8f50622220840,
+    type: 3}
+  paintExtraAmount: 0
+--- !u!1 &2160325533550652090
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3102057277747086896}
+  m_Layer: 0
+  m_Name: Dynamic Holder
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3102057277747086896
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2160325533550652090}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 5140858010429954131}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &4147738680145318446
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 5140858010429954131}
+    m_Modifications:
+    - target: {fileID: 3560775991873479421, guid: 8fcea4371182d8a468c8f50622220840,
+        type: 3}
+      propertyPath: m_Name
+      value: Model Deadpool
+      objectReference: {fileID: 0}
+    - target: {fileID: 3560775991873479421, guid: 8fcea4371182d8a468c8f50622220840,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3658221927924276055, guid: 8fcea4371182d8a468c8f50622220840,
+        type: 3}
+      propertyPath: spritePreview
+      value: 
+      objectReference: {fileID: 21300000, guid: 0ff63ec80f1e93f4b9998154e8255564,
+        type: 3}
+    - target: {fileID: 7502509179717166682, guid: 8fcea4371182d8a468c8f50622220840,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7502509179717166682, guid: 8fcea4371182d8a468c8f50622220840,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7502509179717166682, guid: 8fcea4371182d8a468c8f50622220840,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7502509179717166682, guid: 8fcea4371182d8a468c8f50622220840,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7502509179717166682, guid: 8fcea4371182d8a468c8f50622220840,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7502509179717166682, guid: 8fcea4371182d8a468c8f50622220840,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7502509179717166682, guid: 8fcea4371182d8a468c8f50622220840,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7502509179717166682, guid: 8fcea4371182d8a468c8f50622220840,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7502509179717166682, guid: 8fcea4371182d8a468c8f50622220840,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7502509179717166682, guid: 8fcea4371182d8a468c8f50622220840,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7502509179717166682, guid: 8fcea4371182d8a468c8f50622220840,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8fcea4371182d8a468c8f50622220840, type: 3}
+--- !u!4 &5877758280990962804 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7502509179717166682, guid: 8fcea4371182d8a468c8f50622220840,
+    type: 3}
+  m_PrefabInstance: {fileID: 4147738680145318446}
+  m_PrefabAsset: {fileID: 0}

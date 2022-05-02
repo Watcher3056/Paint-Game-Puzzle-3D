@@ -1,0 +1,73 @@
+Assets/Plugins/Firebase/Editor Default Resources/Firebase/fb_analytics.png
+Assets/Plugins/Firebase/Editor Default Resources/Firebase/fb_analytics_dark.png
+Assets/Plugins/Firebase/Editor Default Resources/Firebase/fb_auth.png
+Assets/Plugins/Firebase/Editor Default Resources/Firebase/fb_auth_dark.png
+Assets/Plugins/Firebase/Editor Default Resources/Firebase/fb_cloud_messaging.png
+Assets/Plugins/Firebase/Editor Default Resources/Firebase/fb_cloud_messaging_dark.png
+Assets/Plugins/Firebase/Editor Default Resources/Firebase/fb_config.png
+Assets/Plugins/Firebase/Editor Default Resources/Firebase/fb_config_dark.png
+Assets/Plugins/Firebase/Editor Default Resources/Firebase/fb_crashlytics.png
+Assets/Plugins/Firebase/Editor Default Resources/Firebase/fb_crashlytics_dark.png
+Assets/Plugins/Firebase/Editor Default Resources/Firebase/fb_database.png
+Assets/Plugins/Firebase/Editor Default Resources/Firebase/fb_database_dark.png
+Assets/Plugins/Firebase/Editor Default Resources/Firebase/fb_dynamic_links.png
+Assets/Plugins/Firebase/Editor Default Resources/Firebase/fb_dynamic_links_dark.png
+Assets/Plugins/Firebase/Editor Default Resources/Firebase/fb_functions.png
+Assets/Plugins/Firebase/Editor Default Resources/Firebase/fb_functions_dark.png
+Assets/Plugins/Firebase/Editor Default Resources/Firebase/fb_storage.png
+Assets/Plugins/Firebase/Editor Default Resources/Firebase/fb_storage_dark.png
+Assets/Plugins/Firebase/Editor Default Resources/Firebase/firebase_lockup.png
+Assets/Plugins/Firebase/Editor Default Resources/Firebase/firebase_lockup_dark.png
+Assets/ExternalDependencyManager/Editor/CHANGELOG.md
+Assets/ExternalDependencyManager/Editor/Google.IOSResolver.dll
+Assets/ExternalDependencyManager/Editor/Google.IOSResolver.dll.mdb
+Assets/ExternalDependencyManager/Editor/Google.JarResolver.dll
+Assets/ExternalDependencyManager/Editor/Google.JarResolver.dll.mdb
+Assets/ExternalDependencyManager/Editor/Google.PackageManagerResolver_v1.2.166.dll
+Assets/ExternalDependencyManager/Editor/Google.PackageManagerResolver_v1.2.166.dll.mdb
+Assets/ExternalDependencyManager/Editor/Google.VersionHandler.dll
+Assets/ExternalDependencyManager/Editor/Google.VersionHandler.dll.mdb
+Assets/ExternalDependencyManager/Editor/Google.VersionHandlerImpl_v1.2.166.dll
+Assets/ExternalDependencyManager/Editor/Google.VersionHandlerImpl_v1.2.166.dll.mdb
+Assets/ExternalDependencyManager/Editor/LICENSE
+Assets/ExternalDependencyManager/Editor/README.md
+Assets/ExternalDependencyManager/Editor/external-dependency-manager_version-1.2.166_manifest.txt
+Assets/Plugins/Firebase/Editor/AnalyticsDependencies.xml
+Assets/Plugins/Firebase/Editor/AppDependencies.xml
+Assets/Plugins/Firebase/Editor/Firebase.Editor.dll
+Assets/Plugins/Firebase/Editor/Firebase.Editor.dll.mdb
+Assets/Plugins/Firebase/Editor/generate_xml_from_google_services_json.exe
+Assets/Plugins/Firebase/Editor/generate_xml_from_google_services_json.py
+Assets/Plugins/Firebase/Editor/network_request.exe
+Assets/Plugins/Firebase/Editor/network_request.py
+Assets/Plugins/Firebase/Plugins/Firebase.Analytics.dll
+Assets/Plugins/Firebase/Plugins/Firebase.Analytics.dll.mdb
+Assets/Plugins/Firebase/Plugins/Firebase.App.dll
+Assets/Plugins/Firebase/Plugins/Firebase.App.dll.mdb
+Assets/Plugins/Firebase/Plugins/Firebase.Platform.dll
+Assets/Plugins/Firebase/Plugins/Firebase.Platform.dll.mdb
+Assets/Plugins/Firebase/Plugins/Firebase.TaskExtension.dll
+Assets/Plugins/Firebase/Plugins/Firebase.TaskExtension.dll.mdb
+Assets/Plugins/Firebase/Plugins/Google.MiniJson.dll
+Assets/Plugins/Firebase/Plugins/iOS/Firebase.Analytics.dll
+Assets/Plugins/Firebase/Plugins/iOS/Firebase.Analytics.dll.mdb
+Assets/Plugins/Firebase/Plugins/iOS/Firebase.App.dll
+Assets/Plugins/Firebase/Plugins/iOS/Firebase.App.dll.mdb
+Assets/Plugins/Firebase/Plugins/x86_64/FirebaseCppAnalytics.bundle
+Assets/Plugins/Firebase/Plugins/x86_64/FirebaseCppAnalytics.dll
+Assets/Plugins/Firebase/Plugins/x86_64/FirebaseCppAnalytics.so
+Assets/Plugins/Firebase/Plugins/x86_64/FirebaseCppApp-8_3_0.bundle
+Assets/Plugins/Firebase/Plugins/x86_64/FirebaseCppApp-8_3_0.dll
+Assets/Plugins/Firebase/Plugins/x86_64/FirebaseCppApp-8_3_0.so
+Assets/Plugins/Firebase/m2repository/com/google/firebase/firebase-analytics-unity/8.3.0/firebase-analytics-unity-8.3.0.pom
+Assets/Plugins/Firebase/m2repository/com/google/firebase/firebase-analytics-unity/8.3.0/firebase-analytics-unity-8.3.0.srcaar
+Assets/Plugins/Firebase/m2repository/com/google/firebase/firebase-analytics-unity/maven-metadata.xml
+Assets/Plugins/Firebase/m2repository/com/google/firebase/firebase-app-unity/8.3.0/firebase-app-unity-8.3.0.pom
+Assets/Plugins/Firebase/m2repository/com/google/firebase/firebase-app-unity/8.3.0/firebase-app-unity-8.3.0.srcaar
+Assets/Plugins/Firebase/m2repository/com/google/firebase/firebase-app-unity/maven-metadata.xml
+Assets/Plugins/Firebase/Parse/Plugins/Unity.Compat.dll
+Assets/Plugins/Firebase/Parse/Plugins/Unity.Tasks.dll
+Assets/Plugins/Firebase/Parse/Plugins/dotNet45/Unity.Compat.dll
+Assets/Plugins/Firebase/Parse/Plugins/dotNet45/Unity.Tasks.dll
+Assets/Plugins/Firebase/Plugins/iOS/Firebase/libFirebaseCppAnalytics.a
+Assets/Plugins/Firebase/Plugins/iOS/Firebase/libFirebaseCppApp.a

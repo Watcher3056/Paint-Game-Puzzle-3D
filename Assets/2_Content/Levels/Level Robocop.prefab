@@ -1,0 +1,161 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5601482874724896445
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 231283402857500532}
+  - component: {fileID: 8599451832098206237}
+  m_Layer: 0
+  m_Name: Level Robocop
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &231283402857500532
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5601482874724896445}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 8029611031156363543}
+  - {fileID: 1581799328408036179}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8599451832098206237
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5601482874724896445}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17888bd85b32b7c44b0fa5d09b73f65d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  guid:
+    id: 10573829a758b8e4e954d4b814c5d63c
+    sourceType: 1
+    prefabId: 10573829a758b8e4e954d4b814c5d63c
+    randomId: 
+  dynamicHolder: {fileID: 8029611031156363543}
+  modelPrefab: {fileID: 5880793597543869843, guid: 2d9d27eb8f42b2c41b1079f65c74753e,
+    type: 3}
+  paintExtraAmount: 0
+--- !u!1 &6456284692073938333
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8029611031156363543}
+  m_Layer: 0
+  m_Name: Dynamic Holder
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8029611031156363543
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6456284692073938333}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 231283402857500532}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &2212870135878169549
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 231283402857500532}
+    m_Modifications:
+    - target: {fileID: 812371631289716894, guid: 2d9d27eb8f42b2c41b1079f65c74753e,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 812371631289716894, guid: 2d9d27eb8f42b2c41b1079f65c74753e,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 812371631289716894, guid: 2d9d27eb8f42b2c41b1079f65c74753e,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 812371631289716894, guid: 2d9d27eb8f42b2c41b1079f65c74753e,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 812371631289716894, guid: 2d9d27eb8f42b2c41b1079f65c74753e,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 812371631289716894, guid: 2d9d27eb8f42b2c41b1079f65c74753e,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 812371631289716894, guid: 2d9d27eb8f42b2c41b1079f65c74753e,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 812371631289716894, guid: 2d9d27eb8f42b2c41b1079f65c74753e,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 812371631289716894, guid: 2d9d27eb8f42b2c41b1079f65c74753e,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 812371631289716894, guid: 2d9d27eb8f42b2c41b1079f65c74753e,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 812371631289716894, guid: 2d9d27eb8f42b2c41b1079f65c74753e,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922850398323692601, guid: 2d9d27eb8f42b2c41b1079f65c74753e,
+        type: 3}
+      propertyPath: m_Name
+      value: Model Robocop
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2d9d27eb8f42b2c41b1079f65c74753e, type: 3}
+--- !u!4 &1581799328408036179 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 812371631289716894, guid: 2d9d27eb8f42b2c41b1079f65c74753e,
+    type: 3}
+  m_PrefabInstance: {fileID: 2212870135878169549}
+  m_PrefabAsset: {fileID: 0}

@@ -1,0 +1,20 @@
+{
+    "name": "Sirenix.OdinValidator",
+    "references": [
+        "Sirenix.OdinInspector.Attributes",
+        "Sirenix.OdinInspector.Editor",
+        "Sirenix.Serialization",
+        "Sirenix.Serialization.Config",
+        "Sirenix.Utilities",
+        "Sirenix.Utilities.Editor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "autoReferenced": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "defineConstraints": []
+}

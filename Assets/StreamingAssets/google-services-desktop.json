@@ -1,0 +1,36 @@
+{
+  "project_info": {
+    "project_number": "173816447822",
+    "project_id": "paint-puzzle-3d",
+    "storage_bucket": "paint-puzzle-3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173816447822:ios:4acf08b0bc5680258d141f",
+        "android_client_info": {
+          "package_name": "com.phogames.pixelpaintpuzzle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173816447822-hdonheuko7ucopf5jso7145oe7tma3uk.apps.googleusercontent.com"
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJmPLIm7UDWrUxkOuGDWDk8QOQCMF7Bf8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

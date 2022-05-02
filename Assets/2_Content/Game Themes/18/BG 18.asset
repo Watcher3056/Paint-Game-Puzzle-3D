@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23fff1678fa626445bf55600d5a923e8, type: 3}
+  m_Name: BG 18
+  m_EditorClassIdentifier: 
+  guid:
+    id: c4a016c3e4b5eaf4fa0bfff0607ede08
+    sourceType: 1
+    prefabId: c4a016c3e4b5eaf4fa0bfff0607ede08
+    randomId: 
+  materialBG: {fileID: 2100000, guid: dca858ade380fb349a187529c625524a, type: 2}
+  spritePreview: {fileID: 21300000, guid: 2edf793a2167f3e4aa8a50a524ba0d11, type: 3}

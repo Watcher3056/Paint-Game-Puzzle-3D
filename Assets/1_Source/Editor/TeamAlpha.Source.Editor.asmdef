@@ -1,0 +1,22 @@
+{
+    "name": "TeamAlpha.Source.Editor",
+    "references": [
+        "GUID:988988ff71169144bbce004bb41ad5af",
+        "GUID:0ffabddd3151109429645b1cd89c0360",
+        "GUID:fedd4141711632045b4dea8886b8e2e8",
+        "GUID:50492eb1835128b4f8f95e247924af34",
+        "GUID:c088a3930f931c44fbef67483dc11d88",
+        "GUID:9147d0b1e594e644d935caf85472e426"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
